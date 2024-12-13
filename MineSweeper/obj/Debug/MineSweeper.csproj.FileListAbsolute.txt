@@ -1,0 +1,65 @@
+C:\Users\Ata\source\repos\MineSweeper\MineSweeper\bin\Debug\MineSweeper.exe.config
+C:\Users\Ata\source\repos\MineSweeper\MineSweeper\bin\Debug\MineSweeper.exe
+C:\Users\Ata\source\repos\MineSweeper\MineSweeper\bin\Debug\MineSweeper.pdb
+C:\Users\Ata\source\repos\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.AssemblyReference.cache
+C:\Users\Ata\source\repos\MineSweeper\MineSweeper\obj\Debug\MineSweeper.MainMenu.resources
+C:\Users\Ata\source\repos\MineSweeper\MineSweeper\obj\Debug\MineSweeper.Properties.Resources.resources
+C:\Users\Ata\source\repos\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.GenerateResource.cache
+C:\Users\Ata\source\repos\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.CoreCompileInputs.cache
+C:\Users\Ata\source\repos\MineSweeper\MineSweeper\obj\Debug\MineSweeper.exe
+C:\Users\Ata\source\repos\MineSweeper\MineSweeper\obj\Debug\MineSweeper.pdb
+C:\Users\Ata\source\repos\MineSweeper\MineSweeper\obj\Debug\MineSweeper.Form2.resources
+C:\Users\Ata\source\repos\MineSweeper\MineSweeper\obj\Debug\MineSweeper.Form3.resources
+C:\Users\Ata\source\repos\MineSweeper\MineSweeper\obj\Debug\MineSweeper.Form4.resources
+C:\Users\IRMAK\Desktop\MineSweeper\MineSweeper\bin\Debug\MineSweeper.exe.config
+C:\Users\IRMAK\Desktop\MineSweeper\MineSweeper\bin\Debug\MineSweeper.exe
+C:\Users\IRMAK\Desktop\MineSweeper\MineSweeper\bin\Debug\MineSweeper.pdb
+C:\Users\IRMAK\Desktop\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.AssemblyReference.cache
+C:\Users\IRMAK\Desktop\MineSweeper\MineSweeper\obj\Debug\MineSweeper.MainMenu.resources
+C:\Users\IRMAK\Desktop\MineSweeper\MineSweeper\obj\Debug\MineSweeper.Form2.resources
+C:\Users\IRMAK\Desktop\MineSweeper\MineSweeper\obj\Debug\MineSweeper.Form3.resources
+C:\Users\IRMAK\Desktop\MineSweeper\MineSweeper\obj\Debug\MineSweeper.Form4.resources
+C:\Users\IRMAK\Desktop\MineSweeper\MineSweeper\obj\Debug\MineSweeper.Properties.Resources.resources
+C:\Users\IRMAK\Desktop\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.GenerateResource.cache
+C:\Users\IRMAK\Desktop\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.CoreCompileInputs.cache
+C:\Users\IRMAK\Desktop\MineSweeper\MineSweeper\obj\Debug\MineSweeper.exe
+C:\Users\IRMAK\Desktop\MineSweeper\MineSweeper\obj\Debug\MineSweeper.pdb
+C:\Users\Ata\Desktop\MineSweeper (2)\MineSweeper\MineSweeper\bin\Debug\MineSweeper.exe.config
+C:\Users\Ata\Desktop\MineSweeper (2)\MineSweeper\MineSweeper\bin\Debug\MineSweeper.exe
+C:\Users\Ata\Desktop\MineSweeper (2)\MineSweeper\MineSweeper\bin\Debug\MineSweeper.pdb
+C:\Users\Ata\Desktop\MineSweeper (2)\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.AssemblyReference.cache
+C:\Users\Ata\Desktop\MineSweeper (2)\MineSweeper\MineSweeper\obj\Debug\MineSweeper.MainMenu.resources
+C:\Users\Ata\Desktop\MineSweeper (2)\MineSweeper\MineSweeper\obj\Debug\MineSweeper.Form2.resources
+C:\Users\Ata\Desktop\MineSweeper (2)\MineSweeper\MineSweeper\obj\Debug\MineSweeper.Form3.resources
+C:\Users\Ata\Desktop\MineSweeper (2)\MineSweeper\MineSweeper\obj\Debug\MineSweeper.Form4.resources
+C:\Users\Ata\Desktop\MineSweeper (2)\MineSweeper\MineSweeper\obj\Debug\MineSweeper.Properties.Resources.resources
+C:\Users\Ata\Desktop\MineSweeper (2)\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.GenerateResource.cache
+C:\Users\Ata\Desktop\MineSweeper (2)\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.CoreCompileInputs.cache
+C:\Users\Ata\Desktop\MineSweeper (2)\MineSweeper\MineSweeper\obj\Debug\MineSweeper.exe
+C:\Users\Ata\Desktop\MineSweeper (2)\MineSweeper\MineSweeper\obj\Debug\MineSweeper.pdb
+C:\Users\IRMAK\Desktop\MineSweeper 5 (1)\MineSweeper (2)\MineSweeper\MineSweeper\bin\Debug\MineSweeper.exe.config
+C:\Users\IRMAK\Desktop\MineSweeper 5 (1)\MineSweeper (2)\MineSweeper\MineSweeper\bin\Debug\MineSweeper.exe
+C:\Users\IRMAK\Desktop\MineSweeper 5 (1)\MineSweeper (2)\MineSweeper\MineSweeper\bin\Debug\MineSweeper.pdb
+C:\Users\IRMAK\Desktop\MineSweeper 5 (1)\MineSweeper (2)\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.AssemblyReference.cache
+C:\Users\IRMAK\Desktop\MineSweeper 5 (1)\MineSweeper (2)\MineSweeper\MineSweeper\obj\Debug\MineSweeper.MainMenu.resources
+C:\Users\IRMAK\Desktop\MineSweeper 5 (1)\MineSweeper (2)\MineSweeper\MineSweeper\obj\Debug\MineSweeper.Form2.resources
+C:\Users\IRMAK\Desktop\MineSweeper 5 (1)\MineSweeper (2)\MineSweeper\MineSweeper\obj\Debug\MineSweeper.Form3.resources
+C:\Users\IRMAK\Desktop\MineSweeper 5 (1)\MineSweeper (2)\MineSweeper\MineSweeper\obj\Debug\MineSweeper.Form4.resources
+C:\Users\IRMAK\Desktop\MineSweeper 5 (1)\MineSweeper (2)\MineSweeper\MineSweeper\obj\Debug\MineSweeper.Properties.Resources.resources
+C:\Users\IRMAK\Desktop\MineSweeper 5 (1)\MineSweeper (2)\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.GenerateResource.cache
+C:\Users\IRMAK\Desktop\MineSweeper 5 (1)\MineSweeper (2)\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.CoreCompileInputs.cache
+C:\Users\IRMAK\Desktop\MineSweeper 5 (1)\MineSweeper (2)\MineSweeper\MineSweeper\obj\Debug\MineSweeper.exe
+C:\Users\IRMAK\Desktop\MineSweeper 5 (1)\MineSweeper (2)\MineSweeper\MineSweeper\obj\Debug\MineSweeper.pdb
+C:\Users\IRMAK\Desktop\MineSweeper _230229038\MineSweeper\MineSweeper\MineSweeper\bin\Debug\MineSweeper.exe.config
+C:\Users\IRMAK\Desktop\MineSweeper _230229038\MineSweeper\MineSweeper\MineSweeper\bin\Debug\MineSweeper.exe
+C:\Users\IRMAK\Desktop\MineSweeper _230229038\MineSweeper\MineSweeper\MineSweeper\bin\Debug\MineSweeper.pdb
+C:\Users\IRMAK\Desktop\MineSweeper _230229038\MineSweeper\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.AssemblyReference.cache
+C:\Users\IRMAK\Desktop\MineSweeper _230229038\MineSweeper\MineSweeper\MineSweeper\obj\Debug\MineSweeper.MainMenu.resources
+C:\Users\IRMAK\Desktop\MineSweeper _230229038\MineSweeper\MineSweeper\MineSweeper\obj\Debug\MineSweeper.Form2.resources
+C:\Users\IRMAK\Desktop\MineSweeper _230229038\MineSweeper\MineSweeper\MineSweeper\obj\Debug\MineSweeper.Form3.resources
+C:\Users\IRMAK\Desktop\MineSweeper _230229038\MineSweeper\MineSweeper\MineSweeper\obj\Debug\MineSweeper.Form4.resources
+C:\Users\IRMAK\Desktop\MineSweeper _230229038\MineSweeper\MineSweeper\MineSweeper\obj\Debug\MineSweeper.Properties.Resources.resources
+C:\Users\IRMAK\Desktop\MineSweeper _230229038\MineSweeper\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.GenerateResource.cache
+C:\Users\IRMAK\Desktop\MineSweeper _230229038\MineSweeper\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.CoreCompileInputs.cache
+C:\Users\IRMAK\Desktop\MineSweeper _230229038\MineSweeper\MineSweeper\MineSweeper\obj\Debug\MineSweeper.exe
+C:\Users\IRMAK\Desktop\MineSweeper _230229038\MineSweeper\MineSweeper\MineSweeper\obj\Debug\MineSweeper.pdb

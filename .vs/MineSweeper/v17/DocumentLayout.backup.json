@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\IRMAK\\Desktop\\MineSweeper _230229038\\MineSweeper\\MineSweeper\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2AD1BFE5-6665-49D7-84AD-48A8D4909491}|MineSweeper\\MineSweeper.csproj|c:\\users\\irmak\\desktop\\minesweeper _230229038\\minesweeper\\minesweeper\\minesweeper\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AD1BFE5-6665-49D7-84AD-48A8D4909491}|MineSweeper\\MineSweeper.csproj|solutionrelative:minesweeper\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AD1BFE5-6665-49D7-84AD-48A8D4909491}|MineSweeper\\MineSweeper.csproj|C:\\Users\\IRMAK\\Desktop\\MineSweeper _230229038\\MineSweeper\\MineSweeper\\minesweeper\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AD1BFE5-6665-49D7-84AD-48A8D4909491}|MineSweeper\\MineSweeper.csproj|solutionrelative:minesweeper\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AD1BFE5-6665-49D7-84AD-48A8D4909491}|MineSweeper\\MineSweeper.csproj|C:\\Users\\IRMAK\\Desktop\\MineSweeper _230229038\\MineSweeper\\MineSweeper\\minesweeper\\scoreboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AD1BFE5-6665-49D7-84AD-48A8D4909491}|MineSweeper\\MineSweeper.csproj|solutionrelative:minesweeper\\scoreboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AD1BFE5-6665-49D7-84AD-48A8D4909491}|MineSweeper\\MineSweeper.csproj|C:\\Users\\IRMAK\\Desktop\\MineSweeper _230229038\\MineSweeper\\MineSweeper\\minesweeper\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2AD1BFE5-6665-49D7-84AD-48A8D4909491}|MineSweeper\\MineSweeper.csproj|solutionrelative:minesweeper\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AD1BFE5-6665-49D7-84AD-48A8D4909491}|MineSweeper\\MineSweeper.csproj|C:\\Users\\IRMAK\\Desktop\\MineSweeper _230229038\\MineSweeper\\MineSweeper\\minesweeper\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AD1BFE5-6665-49D7-84AD-48A8D4909491}|MineSweeper\\MineSweeper.csproj|solutionrelative:minesweeper\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AD1BFE5-6665-49D7-84AD-48A8D4909491}|MineSweeper\\MineSweeper.csproj|C:\\Users\\IRMAK\\Desktop\\MineSweeper _230229038\\MineSweeper\\MineSweeper\\minesweeper\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2AD1BFE5-6665-49D7-84AD-48A8D4909491}|MineSweeper\\MineSweeper.csproj|solutionrelative:minesweeper\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\IRMAK\\Desktop\\MineSweeper _230229038\\MineSweeper\\MineSweeper\\MineSweeper\\Form2.cs",
+              "RelativeDocumentMoniker": "MineSweeper\\Form2.cs",
+              "ToolTip": "C:\\Users\\IRMAK\\Desktop\\MineSweeper _230229038\\MineSweeper\\MineSweeper\\MineSweeper\\Form2.cs",
+              "RelativeToolTip": "MineSweeper\\Form2.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAowJYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T07:46:35.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\IRMAK\\Desktop\\MineSweeper _230229038\\MineSweeper\\MineSweeper\\MineSweeper\\Form2.cs",
+              "RelativeDocumentMoniker": "MineSweeper\\Form2.cs",
+              "ToolTip": "C:\\Users\\IRMAK\\Desktop\\MineSweeper _230229038\\MineSweeper\\MineSweeper\\MineSweeper\\Form2.cs [Design]",
+              "RelativeToolTip": "MineSweeper\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T07:46:27.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\IRMAK\\Desktop\\MineSweeper _230229038\\MineSweeper\\MineSweeper\\MineSweeper\\Form1.cs",
+              "RelativeDocumentMoniker": "MineSweeper\\Form1.cs",
+              "ToolTip": "C:\\Users\\IRMAK\\Desktop\\MineSweeper _230229038\\MineSweeper\\MineSweeper\\MineSweeper\\Form1.cs",
+              "RelativeToolTip": "MineSweeper\\Form1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T07:45:58.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\IRMAK\\Desktop\\MineSweeper _230229038\\MineSweeper\\MineSweeper\\MineSweeper\\Form1.cs",
+              "RelativeDocumentMoniker": "MineSweeper\\Form1.cs",
+              "ToolTip": "C:\\Users\\IRMAK\\Desktop\\MineSweeper _230229038\\MineSweeper\\MineSweeper\\MineSweeper\\Form1.cs [Design]*",
+              "RelativeToolTip": "MineSweeper\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T07:45:54.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\IRMAK\\Desktop\\MineSweeper _230229038\\MineSweeper\\MineSweeper\\MineSweeper\\Game.cs",
+              "RelativeDocumentMoniker": "MineSweeper\\Game.cs",
+              "ToolTip": "C:\\Users\\IRMAK\\Desktop\\MineSweeper _230229038\\MineSweeper\\MineSweeper\\MineSweeper\\Game.cs",
+              "RelativeToolTip": "MineSweeper\\Game.cs",
+              "ViewState": "AgIAALUAAAAAAAAAAAAkwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T20:33:59.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Scoreboard.cs",
+              "DocumentMoniker": "C:\\Users\\IRMAK\\Desktop\\MineSweeper _230229038\\MineSweeper\\MineSweeper\\MineSweeper\\Scoreboard.cs",
+              "RelativeDocumentMoniker": "MineSweeper\\Scoreboard.cs",
+              "ToolTip": "C:\\Users\\IRMAK\\Desktop\\MineSweeper _230229038\\MineSweeper\\MineSweeper\\MineSweeper\\Scoreboard.cs",
+              "RelativeToolTip": "MineSweeper\\Scoreboard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T20:34:01.114Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
