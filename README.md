@@ -1,7 +1,9 @@
 Minesweeper Game
 ---
-A desktop-based Minesweeper clone written in C# using Windows Forms. 
-The game replicates the classic Minesweeper experience with a clean UI, timer, and dynamic grid generation.
+
+A desktop-based Minesweeper clone written in C# using **Windows Forms. 
+The game replicates the classic Minesweeper experience with a clean UI, timer, and dynamic grid generation
+
 ---
 Gameplay Overview
 - Uncover cells in a grid without triggering hidden mines.
